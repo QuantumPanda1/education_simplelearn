@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "react": "18.0.0",
+    "react-dom": "18.0.0",
+    "three": "0.171.0",
+    "gsap": "3.12.5"
+  }
+}
